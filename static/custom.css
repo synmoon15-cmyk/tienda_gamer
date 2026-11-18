@@ -1,0 +1,5 @@
+body { background-color: #f4f6f9; }
+.navbar { background: linear-gradient(90deg, #1b1b2f, #3a1c71); }
+.navbar-brand { font-weight: bold; letter-spacing: .5px; color: #fff; }
+.card { border: none; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,.12); transition: transform .15s; }
+.card:hover { transform: translateY(-4px); }
